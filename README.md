@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SemiiOtto
 - 👀 I’m interested in ... Learning Code
-- 🌱 I’m currently learning ... node.js with p5.js
+- 🌱 I’m currently learning ... python3 and vPython for Arduino
 - 💞️ I’m looking to collaborate on ... not sure yet
 - 📫 How to reach me ... write me an issue
 
