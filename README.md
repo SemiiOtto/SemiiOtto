@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SemiiOtto
-- 👀 I’m interested in ... Learning Code
-- 🌱 I’m currently learning ... python3 and vPython for Arduino
+- 👀 I’m interested in ... Network Pen testing, 3D Modeling, Video Editing, DIY Electronic Projects, SDRs and Radio Frequecy Analysis, AI
+- 🌱 I’m currently learning ... Revit, Bluebeam Revu, Navisworks, Notion, AL Agents
 - 💞️ I’m looking to collaborate on ... not sure yet
 - 📫 How to reach me ... write me an issue
 
